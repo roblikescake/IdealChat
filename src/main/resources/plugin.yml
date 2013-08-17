@@ -1,0 +1,8 @@
+name: IdealChat
+author: roblikescake
+main: main.java.net.simplicite_mc.roblikescake.IdealChat.IdealChat
+description: It does stuff
+version: 0.0.1
+commands:
+    channel:
+        description: Usage /channel

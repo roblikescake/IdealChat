@@ -7,7 +7,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 public class CommandChannelJoin implements CommandExecutor {
-    ChannelHandler channelHandler = new ChannelHandler();
+    public static ChannelHandler channelHandler = new ChannelHandler();
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {

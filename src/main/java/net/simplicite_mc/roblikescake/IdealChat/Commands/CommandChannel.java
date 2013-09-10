@@ -1,4 +1,4 @@
-package net.simplicite_mc.roblikescake.IdealChat.Commands;
+package net.simplicite_mc.roblikescake.idealchat.Commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

@@ -1,8 +1,9 @@
 name: IdealChat
 author: roblikescake
-main: net.simplicite_mc.roblikescake.IdealChat.IdealChat
+main: net.simplicite_mc.roblikescake.idealchat.IdealChat
 description: It does stuff
-version: 0.0.1
+version: ${project.version}-b${BUILD_NUMBER}
+
 commands:
     channel:
         description: Usage /channel

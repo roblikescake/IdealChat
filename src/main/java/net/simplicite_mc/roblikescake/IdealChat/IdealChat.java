@@ -1,6 +1,6 @@
-package main.java.net.simplicite_mc.roblikescake.IdealChat;
+package net.simplicite_mc.roblikescake.IdealChat;
 
-import main.java.net.simplicite_mc.roblikescake.IdealChat.Commands.CommandChannel;
+import net.simplicite_mc.roblikescake.IdealChat.Commands.CommandChannel;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class IdealChat extends JavaPlugin {

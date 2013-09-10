@@ -1,4 +1,4 @@
-package main.java.net.simplicite_mc.roblikescake.IdealChat.Channels;
+package net.simplicite_mc.roblikescake.IdealChat.Channels;
 
 import org.bukkit.command.CommandSender;
 

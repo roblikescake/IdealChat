@@ -1,4 +1,4 @@
-package main.java.net.simplicite_mc.roblikescake.IdealChat.Commands;
+package net.simplicite_mc.roblikescake.IdealChat.Commands;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

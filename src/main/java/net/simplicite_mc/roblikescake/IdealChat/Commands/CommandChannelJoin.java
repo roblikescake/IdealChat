@@ -1,6 +1,6 @@
-package main.java.net.simplicite_mc.roblikescake.IdealChat.Commands;
+package net.simplicite_mc.roblikescake.IdealChat.Commands;
 
-import main.java.net.simplicite_mc.roblikescake.IdealChat.Channels.ChannelHandler;
+import net.simplicite_mc.roblikescake.IdealChat.Channels.ChannelHandler;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
